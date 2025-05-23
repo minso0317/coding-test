@@ -1,4 +1,4 @@
-# [일곱 난쟁이 스페셜 저지](https://www.acmicpc.net/problem/2309 "https://www.acmicpc.net/problem/2309")
+# [일곱 난쟁이](https://www.acmicpc.net/problem/2309 "https://www.acmicpc.net/problem/2309")
 
 | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞힌 사람 | 정답 비율 |
 | --- | --- | --- | --- | --- | --- |
