@@ -8,3 +8,5 @@
     - [1316] 그룹 단어 체커 (Lv2)
 - **고급**:
     - [1431] 시리얼 번호 (Lv2)
+
+출처: [백준(Baekjoon Online Judge)](https://www.acmicpc.net/ "https://www.acmicpc.net/")
